@@ -13,8 +13,8 @@
     --color-zinc-800: oklch(27.4% 0.006 286.033);
     --spacing: 0.25rem;
     --container-2xl: 42rem;
-    --text-sm: 0.875rem;
-    --text-sm--line-height: calc(1.25 / 0.875);
+    --text-sm: 0.75rem;
+    --text-sm--line-height: calc(1.25 / 0.75);
     --text-2xl: 1.5rem;
     --text-2xl--line-height: calc(2 / 1.5);
     --font-weight-semibold: 600;
